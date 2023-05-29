@@ -1,11 +1,11 @@
-# Santo Digital - Desafio de Machine learning
--------------------------------------------------------------------
-# -> Linguagem utilizada para realização do desafio 0:
+Santo Digital - Desafio de Machine learning
+------------------------------------------------------------------
+-> Linguagem utilizada para realização do desafio 0:
 Python
-# -> Linguagens e frameworks utilizados para a realização do desafio 4:
+-> Linguagens e frameworks utilizados para a realização do desafio 4:
 Python;
 Anaconda(notebook Jupyter);
-# -> Metodologias de aprendizagem de máquinas utilizada: Aprendizagem por árvores de decisão
+-> Metodologias de aprendizagem de máquinas utilizada: Aprendizagem por árvores de decisão
 
 -- Aqui está um resumo dos passos tomados para elaborar o código e resolver o desafio: --
 
@@ -43,4 +43,4 @@ Anaconda(notebook Jupyter);
 
 •Exibir a previsão das vendas do próximo mês.
 
-# Esses passos foram seguidos para desenvolver o código que realiza a previsão das vendas do próximo mês com base nos dados históricos. A maioria das informações está mais detalhada nos comentários no código.
+Esses passos foram seguidos para desenvolver o código que realiza a previsão das vendas do próximo mês com base nos dados históricos. A maioria das informações está mais detalhada nos comentários no código.
