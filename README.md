@@ -1,10 +1,14 @@
 Santo Digital - Desafio de Machine learning
 ------------------------------------------------------------------
 -> Linguagem utilizada para realização do desafio 0:
+
 Python
 -> Linguagens e frameworks utilizados para a realização do desafio 4:
+
 Python;
+
 Anaconda(notebook Jupyter);
+
 -> Metodologias de aprendizagem de máquinas utilizada: Aprendizagem por árvores de decisão
 
 -- Aqui está um resumo dos passos tomados para elaborar o código e resolver o desafio: --
